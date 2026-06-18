@@ -114,8 +114,8 @@ Tested extensively on testnet before mainnet deployment
 
   <img src="./assets/ss8.png" width="100%"><br><br>
 
-<p style="text-align:center; font-size:14px; color:red; font-weight:bold;">
-Audit summary: The token shows 1 risk and 1 caution in the Binance Wallet scan.<br>
+<p style="text-align:center; font-size:14px; color:#666;">
+Audit summary: The token shows <span style="color:red; font-weight:bold;">1 risk</span> and <span style="color:red; font-weight:bold;">1 caution</span> in the Binance Wallet scan.<br>
 The risk is associated with the vesting mechanism; after vesting completion, ownership renouncement may be executed to resolve this flag.<br>
 The caution is due to the token being newly deployed, which is a standard initial-network warning.<br>
 No additional critical issues were detected.
