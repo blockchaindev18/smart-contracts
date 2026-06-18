@@ -132,6 +132,5 @@ Tested extensively on testnet before mainnet deployment
   <b>Caution:</b> Newly deployed token<br><br>
 
   Ownership renouncement may be executed after vesting completion.<br><br>
-
   <span style="color:#ff3b3b; font-weight:800;">No critical issues found.</span>
 </div>
