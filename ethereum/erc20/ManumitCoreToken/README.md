@@ -113,24 +113,15 @@ Tested extensively on testnet before mainnet deployment
   <img src="./assets/ss7.png" width="100%"><br><br>
 
   <img src="./assets/ss8.png" width="100%"><br><br>
+<p
 
-<div style="
-  text-align:center;
-  font-size:14px;
-  background:#1a0000;
-  border:1px solid #ff3b3b;
-  padding:15px;
-  border-radius:10px;
-  color:#ffb3b3;
-">
-  <div style="color:#ff3b3b; font-weight:800; font-size:16px;">
-    ⚠ Audit Summary
-  </div>
-  <br>
+---
 
-  <b>Risk:</b> <span style="color:#ff3b3b;">1 detected (vesting-related)</span><br><br>
-  <b>Caution:</b> Newly deployed token<br><br>
+## ⚠️ Audit Summary
 
-  Ownership renouncement may be executed after vesting completion.<br><br>
-  <span style="color:#ff3b3b; font-weight:800;">No critical issues found.</span>
-</div>
+- **1 Risk detected** (vesting-related)
+- **1 Caution detected** (newly deployed token)
+
+The risk is associated with the vesting mechanism; after vesting completion, ownership renouncement may resolve this flag. The caution is due to the token being newly deployed, which is a standard initial warning.
+
+**No additional critical issues were detected.**
