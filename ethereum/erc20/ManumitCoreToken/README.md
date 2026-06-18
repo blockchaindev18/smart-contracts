@@ -89,3 +89,23 @@ Built using audited OpenZeppelin libraries
 No malicious functions or hidden mint logic
 Fully transparent and verifiable source code
 Tested extensively on testnet before mainnet deployment
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./assets/ss1.png" width="800"><br><br>
+
+  <img src="./assets/ss2.png" width="800"><br><br>
+
+  <img src="./assets/ss3.png" width="800"><br><br>
+
+  <img src="./assets/ss4.png" width="800"><br><br>
+
+  <img src="./assets/ss5.png" width="800"><br><br>
+
+  <img src="./assets/ss6.png" width="800"><br><br>
+
+  <img src="./assets/ss7.png" width="800"><br><br>
+</p>
