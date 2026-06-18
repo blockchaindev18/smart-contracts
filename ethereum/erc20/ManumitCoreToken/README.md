@@ -18,8 +18,8 @@ The token is deployed on both testnet and mainnet environments for full lifecycl
 
 ### 🚀 Mainnet Deployment
 - Network: Ethereum Mainnet
-- Contract Address: 
-- Explorer: https://etherscan.io/address/
+- Contract Address: 0xbd79700681B62E3F02c0F23c99B242E27a7DFC19
+- Explorer: https://etherscan.io/address/0xbd79700681B62E3F02c0F23c99B242E27a7DFC19
 - Purpose: Production
 
 ---
@@ -84,7 +84,10 @@ Contract is verified on Etherscan:
 Testnet: Verified
 Mainnet: Verified
 
+---
+
 🔐 Security Statement
+
 Built using audited OpenZeppelin libraries
 No malicious functions or hidden mint logic
 Fully transparent and verifiable source code
@@ -92,7 +95,7 @@ Tested extensively on testnet before mainnet deployment
 
 ---
 
-## 📸 Screenshots
+## 📸 Testnet Screenshots
 
 <p align="center">
   <img src="./assets/ss1.png" width="100%"><br><br>
