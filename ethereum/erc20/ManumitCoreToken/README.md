@@ -106,9 +106,9 @@ Tested extensively on testnet before mainnet deployment
 
   <img src="./assets/ss4.png" width="100%"><br><br>
 
-  <img src="./assets/ss5.jpg" width="100%"><br><br>
+  <img src="./assets/ss5.png" width="100%"><br><br>
 
-  <img src="./assets/ss6.jpg" width="100%"><br><br>
+  <img src="./assets/ss6.png" width="100%"><br><br>
 
-  <img src="./assets/ss7.jpg" width="100%"><br><br>
+  <img src="./assets/ss7.png" width="100%"><br><br>
 </p>
