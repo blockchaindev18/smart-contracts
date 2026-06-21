@@ -1,7 +1,7 @@
-# 🪙 ManumitCoreToken (MMC)
+# 🪙 AureusCoreToken (ARC)
 
 ## 📌 Overview
-MANUMIT CORE (MMC) is an ERC-20 token built on the Ethereum blockchain using OpenZeppelin secure smart contract standards. The project is designed with a fixed supply model and transparent token allocation structure to ensure trust and verifiability.
+Aureus Core (ARC) is an ERC-20 token built on the Ethereum blockchain using OpenZeppelin secure smart contract standards. The project is designed with a fixed supply model and transparent token allocation structure to ensure trust and verifiability.
 
 The token is deployed on both testnet and mainnet environments for full lifecycle testing, including functionality validation, security verification, and real-world deployment readiness.
 ---
@@ -10,25 +10,25 @@ The token is deployed on both testnet and mainnet environments for full lifecycl
 
 ### 🧪 Testnet Deployment
 - Network: Sepolia
-- Contract Address: 0xbd79700681B62E3F02c0F23c99B242E27a7DFC19
-- Explorer: https://sepolia.etherscan.io/address/0xbd79700681B62E3F02c0F23c99B242E27a7DFC19
+- Contract Address: 0xab141C39b2Dba4C89394eF6fF89C698a1B9Ad3D9
+- Explorer: https://sepolia.etherscan.io/address/0xab141C39b2Dba4C89394eF6fF89C698a1B9Ad3D9
 - Purpose: Testing
 
 ---
 
 ### 🚀 Mainnet Deployment
 - Network: Ethereum Mainnet
-- Contract Address: 0xbd79700681B62E3F02c0F23c99B242E27a7DFC19
-- Explorer: https://etherscan.io/address/0xbd79700681B62E3F02c0F23c99B242E27a7DFC19
+- Contract Address: -
+- Explorer: https://etherscan.io/address/-
 - Purpose: Production
 
 ---
 
 ## ⚙️ Token Details
-- Token Name: MANUMIT CORE
-- Symbol: MMC
+- Token Name: Aureus Core
+- Symbol: ARC
 - Decimals: 18
-- Total Supply: 6,000,000,000
+- Total Supply: 10,000,000,000
 - Standard: ERC-20
 - Blockcahin: Ethereum
 
@@ -51,20 +51,20 @@ The token is deployed on both testnet and mainnet environments for full lifecycl
 ERC-20 (Ethereum)
 
 ### Token Name
-MANUMIT CORE
+Aureus Core
 
 ### Token Symbol
-MMC
+ARC
 
 ### Total Supply
-6,000,000,000 MMC
+10,000,000,000 MMC
 
 ---
 
 ## 📊 Token Allocation & Lock Structure
 
-- 4,500,000,000 MMC will be unlocked and available at launch
-- 1,500,000,000 MMC will remain locked until **9 July 2028**
+- 5,000,000,000 MMC will be unlocked and available at launch
+- 1,000,000,000 MMC will remain locked until **October 28, 2028**
 - Lock mechanism will be enforced at smart contract level (time-based)
 
 ---
