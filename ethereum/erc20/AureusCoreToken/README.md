@@ -18,8 +18,8 @@ The token is deployed on both testnet and mainnet environments for full lifecycl
 
 ### 🚀 Mainnet Deployment
 - Network: Ethereum Mainnet
-- Contract Address: -
-- Explorer: https://etherscan.io/address/-
+- Contract Address: 0xab141C39b2Dba4C89394eF6fF89C698a1B9Ad3D9
+- Explorer: https://etherscan.io/address/0xab141C39b2Dba4C89394eF6fF89C698a1B9Ad3D9
 - Purpose: Production
 
 ---
