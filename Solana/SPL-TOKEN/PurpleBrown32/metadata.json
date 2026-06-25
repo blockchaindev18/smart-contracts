@@ -1,15 +1,12 @@
 {
-  "name": "PurpleBrown32",
-  "symbol": "PB32",
-  "description": "PurpleBrown32 (PB32$) is a Solana-powered utility token that blends Web3 innovation, gaming culture, luxury branding, and digital collectibles into one ecosystem. Holders gain access to exclusive community benefits, future NFT utilities, rewards, and ecosystem features centered around the PB32 brand and its official character, Lovely. Built for long-term growth, PB32$ aims to create a unique bridge between blockchain technology, gaming, lifestyle, and digital ownership.",
-  "image": "https://raw.githubusercontent.com/blockchaindev18/smart-contracts/main/Solana/SPL-TOKEN/PurpleBrown32/logo.png",
-  "external_url": "https://github.com/blockchaindev18/smart-contracts",
-  "properties": {
-    "files": [
+    "name": "PurpleBrown32",
+    "symbol": "PB32",
+    "description": "PurpleBrown32 (PB32) is a Solana-powered utility token that blends Web3 innovation, gaming culture, luxury branding, and digital collectibles into one ecosystem. Holders gain access to exclusive community benefits, future NFT utilities, rewards, and ecosystem features centered around the PB32 brand and its official character, Lovely. Built for long-term growth, PB32$ aims to create a unique bridge between blockchain technology, gaming, lifestyle, and digital ownership.",
+    "image": "https://raw.githubusercontent.com/blockchaindev18/smart-contracts/main/Solana/SPL-TOKEN/PurpleBrown32/logo.png",
+    "attributes": [
       {
-        "uri": "https://raw.githubusercontent.com/blockchaindev18/smart-contracts/main/Solana/SPL-TOKEN/PurpleBrown32/logo.png",
-        "type": "image/png"
+        "trait_type": "Item",
+        "value": "Developer Portal"
       }
     ]
   }
-}
